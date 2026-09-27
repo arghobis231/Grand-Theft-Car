@@ -1,0 +1,6 @@
+{
+  "name": "Grand Theft Car",
+  "description": "Retro top-down highway racing arcade game where you drive the wrong way avoiding oncoming traffic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
